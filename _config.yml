@@ -1,3 +1,15 @@
 title: Victor Martínez
-description: Software Engineer | Backend Infrastructure & Automation · Azure
+description: "Software Engineer | Backend Infrastructure & Automation · Azure"
+author: Victor Martínez
+lang: en
+url: "https://victormartinez.dev"   # update after you buy the domain
+
 theme: jekyll-theme-minimal
+show_downloads: false               # hides the theme's "Download ZIP" buttons
+
+plugins:
+  - jekyll-seo-tag                  # better Google/LinkedIn link previews
+  - jekyll-sitemap                  # helps Google index your site
+
+exclude:
+  - README.md
